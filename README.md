@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/69973378/147786741-83944a0f-2ee8-49f7-bdb4-406f0a70ba84.png)
 
-This repo is a collection of minimalist yet effective powershell offensive securities scripts. The goal is to have a very tiny toolkit, enabling a per need basis to allow minimal footprinting (although it is far from perfect and relying only on an AMSI-Bypass will get you caught by EDR once you start doing shady things such as port opening)
+This repo is a collection of minimalist yet effective powershell offensive securities scripts (ie skidware). The goal is to have a very tiny toolkit, enabling a per need basis to allow minimal footprinting (although it is far from perfect and relying only on an AMSI-Bypass will get you caught by EDR once you start doing shady things such as port opening)
 
 All these scripts are made available for educational purposes only. Using them without system owners'consent is illegal and will give you a free jail trip.
 They are all provided without warranty and they may or may not break things. You are responsible of the scripts you run.
