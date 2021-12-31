@@ -46,7 +46,7 @@ https://www.ired.team/offensive-security/code-execution/powershell-without-power
 
 # roadmap
 
-Add extra doc on usage
+Add extra doc on usage/make usage common between scripts
 
 Add a privesc script that will go wmic qfe
 
