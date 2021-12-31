@@ -81,5 +81,11 @@ https://github.com/deepzec/Win-PortFwd
 
 minidump.ps1: Matt Graeber @mattifestation
 
-anydesk-backdoor.ps1: Conti Operators Manual (credit is credit)
+FilelessDotNetLoader.ps1: S3cur3Th1sSh1t
 
+https://github.com/S3cur3Th1sSh1t/Invoke-Sharpcradle
+
+(You should probably give a look at his github, this mans's a powershell beast)
+
+
+anydesk-backdoor.ps1: Conti Operators Manual (credit is credit)
